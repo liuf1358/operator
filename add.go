@@ -1,5 +1,5 @@
 package operator
 
-func AddInt(x int, y int) int{
+func AddInt(x float64, y float64) float64{
 	return  x+y
 }
